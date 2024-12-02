@@ -1,4 +1,10 @@
+<div align=center>
+![code-1839406_1920](https://github.com/user-attachments/assets/b98f7552-c65b-4644-8a38-ce0fb1086196)
 
+</div>
+<div align=center>
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Wafry+%F0%9F%91%8B;AI+Undergraduate;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/WafryAhamed) 
 

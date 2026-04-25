@@ -86,7 +86,6 @@ I build AI-powered systems that go beyond functionality , they solve real proble
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" />
   </kbd>
-<br>
   <kbd>
     <kbd>DevOps & Tools</kbd><br><br>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
